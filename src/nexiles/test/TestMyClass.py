@@ -10,6 +10,7 @@ from nexiles.test import MyClass
 class Test(unittest.TestCase):
 
     def setUp(self):
+        # XXX: fix this::
         pass
 
     def tearDown(self):
